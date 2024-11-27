@@ -1,1 +1,0 @@
-import gspread # gspread apii
